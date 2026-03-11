@@ -1,3 +1,5 @@
+A Matter of Taste: Determine whether you can affect one your teammates’ perceptions of bubble water by manipulating their experience of tasting
+
 Data: Collected through a live experiment consisting of 20 trials (10 with the nose pinched, 10 without).
 
 Methodology: Performed a Permutation Test using the infer package in R to simulate the null distribution.
